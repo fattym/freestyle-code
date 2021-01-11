@@ -398,7 +398,7 @@ footer a:hover {
 	color:#000;
 	height:18px;
 }
-#newsletter a {
+#newsletter button {
 	font-weight:bold;
 	color:#fff;
 	text-decoration:none;
@@ -446,7 +446,7 @@ footer a:hover {
 	float:left;
 	line-height:26px;
 }
-#ContactForm a {
+#ContactForm button {
 	float:right;
 	background:url(../images/send_button.png) no-repeat;
 	width:119px;
